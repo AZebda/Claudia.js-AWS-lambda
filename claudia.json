@@ -1,0 +1,7 @@
+{
+  "lambda": {
+    "role": "serverlessWithClaudia-executor",
+    "name": "serverlessWithClaudia",
+    "region": "us-east-1"
+  }
+}
